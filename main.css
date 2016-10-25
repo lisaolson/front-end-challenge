@@ -5,6 +5,9 @@ ul {
     padding: 0;
     overflow: hidden;
     background-color: #000;
+    height: 50px;
+    top: 0;
+    width: 100%;
 }
 
 li {
@@ -55,6 +58,8 @@ li.dropdown {
   float: left;
   font-size: 30px;
   padding-top: 5px;
+  font-weight: 600;
+  padding-left: 10px;
 }
 
 .logo #GA {
